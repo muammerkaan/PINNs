@@ -28,5 +28,4 @@ This repository contains Physics-Informed Neural Network (PINN) implementations 
 - **`pinn_unit_sphere_pde.ipynb`**  
   PDE on the unit sphere \(S^2\) using surface differential operators:
   $$(a\,\Delta_S - \mathbf{b}\cdot\nabla_S + c)\,u(x,y,z) = f(x,y,z), \qquad (x,y,z)\in S^2,$$
-  where
   $$S^2=\{(x,y,z)\in\mathbb{R}^3: x^2+y^2+z^2=1\}.$$
